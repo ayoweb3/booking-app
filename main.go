@@ -34,14 +34,6 @@ func main() {
     
    fmt.Printf("Thank you %v %v for booking %v tickets. You will receive a confirmation email at %v\n",firstName,lastName,userTickets,email)
 
-
-
-
-
-
- 
-   
-  
    
 
 }
